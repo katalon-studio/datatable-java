@@ -88,12 +88,12 @@
         <repository>
             <id>github</id>
             <name>GitHub Apache Maven Release Packages</name>
-            <url>https://maven.pkg.github.com/katalon-studio/datatable-java</url>
+            <url>https://maven.pkg.github.com/katalon-studio/maven-internal</url>
         </repository>
         <snapshotRepository>
             <id>github</id>
             <name>GitHub Apache Maven Snapshots</name>
-            <url>https://maven.pkg.github.com/katalon-studio/datatable-java</url>
+            <url>https://maven.pkg.github.com/katalon-studio/maven-internal</url>
         </snapshotRepository>
     </distributionManagement>    
 
